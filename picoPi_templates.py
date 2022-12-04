@@ -29,4 +29,4 @@ while not wlan.isconnected() and wlan.status() >= 0:
 print(wlan.ifconfig())
 
 
-# 
+# test

@@ -27,3 +27,6 @@ while not wlan.isconnected() and wlan.status() >= 0:
     time.sleep(1)
 
 print(wlan.ifconfig())
+
+
+# 
